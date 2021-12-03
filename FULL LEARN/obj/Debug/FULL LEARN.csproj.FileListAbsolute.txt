@@ -1,0 +1,7 @@
+C:\Users\Murlok\source\repos\FULL LEARN\FULL LEARN\bin\Debug\FULL LEARN.exe.config
+C:\Users\Murlok\source\repos\FULL LEARN\FULL LEARN\bin\Debug\FULL LEARN.exe
+C:\Users\Murlok\source\repos\FULL LEARN\FULL LEARN\bin\Debug\FULL LEARN.pdb
+C:\Users\Murlok\source\repos\FULL LEARN\FULL LEARN\obj\Debug\FULL LEARN.csprojAssemblyReference.cache
+C:\Users\Murlok\source\repos\FULL LEARN\FULL LEARN\obj\Debug\FULL LEARN.csproj.CoreCompileInputs.cache
+C:\Users\Murlok\source\repos\FULL LEARN\FULL LEARN\obj\Debug\FULL LEARN.exe
+C:\Users\Murlok\source\repos\FULL LEARN\FULL LEARN\obj\Debug\FULL LEARN.pdb
